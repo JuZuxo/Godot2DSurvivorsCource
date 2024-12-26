@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="Ability" load_steps=3 format=3 uid="uid://bbcjagcfuvjlv"]
+
+[ext_resource type="PackedScene" uid="uid://ltxugp0mu6ot" path="res://assets/Scenes/anvil_ability_controller.tscn" id="1_rejg4"]
+[ext_resource type="Script" path="res://resources/upgrade/ability.gd" id="2_fewtm"]
+
+[resource]
+script = ExtResource("2_fewtm")
+ability_controller_scene = ExtResource("1_rejg4")
+id = "anvil"
+max_quantity = 1
+name = "Anvil"
+description = "获得一个随机掉
+落的铁砧"

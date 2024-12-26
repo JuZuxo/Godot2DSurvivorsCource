@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="AbilityUpgrade" load_steps=2 format=3 uid="uid://crd1vh7pomejv"]
+
+[ext_resource type="Script" path="res://resources/upgrade/ability_upgrade.gd" id="1_ja6pf"]
+
+[resource]
+script = ExtResource("1_ja6pf")
+id = "Anvil_amount"
+max_quantity = 2
+name = "Anvil amount"
+description = "额外增加一个铁砧"

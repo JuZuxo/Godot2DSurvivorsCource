@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MetaUpgrades" load_steps=2 format=3 uid="uid://obv0jtds2xtl"]
+
+[ext_resource type="Script" path="res://resources/meta_upgrades/meta_upgrades.gd" id="1_4q8gj"]
+
+[resource]
+script = ExtResource("1_4q8gj")
+id = "Anvil_damage"
+max_quantity = 2
+experience_cost = 700
+title = "Anvil damage"
+description = "Anvil's base damage increases by 50%
+铁砧的基础攻击增加
+50%"

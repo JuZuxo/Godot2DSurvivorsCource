@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="AbilityUpgrade" load_steps=2 format=3 uid="uid://drafy83ovgiqs"]
+
+[ext_resource type="Script" path="res://resources/upgrade/ability_upgrade.gd" id="1_5x1bl"]
+
+[resource]
+script = ExtResource("1_5x1bl")
+id = "experience_range"
+max_quantity = 5
+name = "Experience Range"
+description = "提高经验瓶的吸
+收范围"

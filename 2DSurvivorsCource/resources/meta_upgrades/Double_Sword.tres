@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MetaUpgrades" load_steps=2 format=3 uid="uid://c73hj15w0n3st"]
+
+[ext_resource type="Script" path="res://resources/meta_upgrades/meta_upgrades.gd" id="1_cqx3e"]
+
+[resource]
+script = ExtResource("1_cqx3e")
+id = "Double_Sword"
+max_quantity = 1
+experience_cost = 700
+title = "Double Sword"
+description = "Gain Double Sword as initial weapon
+开局拥有两把剑"

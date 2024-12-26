@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="AbilityUpgrade" load_steps=2 format=3 uid="uid://cwrqn0fv048bn"]
+
+[ext_resource type="Script" path="res://resources/upgrade/ability_upgrade.gd" id="1_kpmx5"]
+
+[resource]
+script = ExtResource("1_kpmx5")
+id = "Heal_HP"
+max_quantity = 0
+name = "Heal 2 HP"
+description = "立即恢复2格血"

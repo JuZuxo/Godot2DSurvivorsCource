@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MetaUpgrades" load_steps=2 format=3 uid="uid://1if1cfgxfonf"]
+
+[ext_resource type="Script" path="res://resources/meta_upgrades/meta_upgrades.gd" id="1_hw88u"]
+
+[resource]
+script = ExtResource("1_hw88u")
+id = "upgrade_card_slot_increase"
+max_quantity = 1
+experience_cost = 200
+title = "Upgrade Card Slot Increase"
+description = "Increases upgrade card slot by 1
+增加一个技能卡槽位"
